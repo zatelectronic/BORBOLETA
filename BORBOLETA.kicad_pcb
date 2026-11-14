@@ -320,7 +320,7 @@
 			(uuid "9a199c3a-91ee-45fc-bd00-348d590ecb13")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -556,7 +556,7 @@
 			(uuid "90e37a68-5ee8-4e77-880f-007d260edc2d")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -758,7 +758,7 @@
 			(uuid "38079c59-fbca-4589-b5ac-5bd10fbf8a4b")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -960,7 +960,7 @@
 			(uuid "c6a66446-12d7-4394-9ea5-b434ad879183")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -1162,7 +1162,7 @@
 			(uuid "670f0896-ad56-4096-bda5-be727d0c9faf")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -1364,7 +1364,7 @@
 			(uuid "47c7aae2-d045-4e04-910e-f7562f89fe31")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -1793,18 +1793,18 @@
 			(uuid "9df07868-32f1-40d8-b5fc-f7c371279c18")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_ARDUINO_3D}/ARDUINO-UNO_20.stp"
+		(model "${KIPRJMOD}/packages3D/PinHeader_7X1_right .stp"
 			(offset
-				(xyz -65.3 -8 54)
+				(xyz -38.8 2 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 90 -0)
+				(xyz -90 -0 -180)
 			)
 		)
-		(model "${ZAT_3D}/PIN HEADER 90 GRAUS/PinHeader_6X1_right.stp"
+		(model "${KIPRJMOD}/packages3D/PinHeader_6X1_right.stp"
 			(offset
 				(xyz -19.8 2 0)
 			)
@@ -1815,15 +1815,15 @@
 				(xyz -90 -0 -180)
 			)
 		)
-		(model "${ZAT_3D}/PIN HEADER 90 GRAUS/PinHeader_7X1_right .stp"
+		(model "${KIPRJMOD}/packages3D/ARDUINO-UNO_20.stp"
 			(offset
-				(xyz -38.8 2 0)
+				(xyz -65.3 -8 54)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
+				(xyz -0 90 -0)
 			)
 		)
 	)
@@ -2051,7 +2051,7 @@
 			(uuid "9383f106-0153-4364-859c-d5a7a05182b5")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -2253,7 +2253,7 @@
 			(uuid "971630ff-ed55-430e-8c4d-fa5138f14464")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -2489,7 +2489,7 @@
 			(uuid "88e89e4c-ed7d-4b50-be31-ec553ed70ba2")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -2691,7 +2691,7 @@
 			(uuid "c254067f-d9c6-4f6f-af47-3b291dc6560d")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -2893,7 +2893,7 @@
 			(uuid "c58666a1-9d25-4a11-baa8-356823dc4f76")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -3129,7 +3129,7 @@
 			(uuid "1f693540-0b3a-4bf4-b284-ef71803c3a17")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -3365,7 +3365,7 @@
 			(uuid "21086333-3637-4950-895e-7dcab01e0d56")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -3567,7 +3567,7 @@
 			(uuid "9dfc2647-595b-40d3-9926-7dbeacea5c98")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -3769,7 +3769,7 @@
 			(uuid "d6b2e36f-41ce-4f69-ba19-8dcb86897761")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -4005,7 +4005,7 @@
 			(uuid "222ead86-4bdb-4974-815e-d42403f866c6")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -4207,7 +4207,7 @@
 			(uuid "5fc91036-7cc2-4e81-9989-0d80a5c3f531")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -4409,7 +4409,7 @@
 			(uuid "bf037e78-5661-47bc-b17d-e85a023061a5")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -4645,7 +4645,7 @@
 			(uuid "c44206b6-dcd3-4ad4-a2c2-59fdea9ad325")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -4881,7 +4881,7 @@
 			(uuid "2b331852-2edb-4faa-a0f7-1885a6cb97e3")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -7827,7 +7827,7 @@
 			(uuid "ddff5bb6-e0fa-4f4c-b534-ddbc3f6e558d")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
+		(model "${KIPRJMOD}/packages3D/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP"
 			(offset
 				(xyz 3.8 0 1.6)
 			)
@@ -8063,7 +8063,7 @@
 			(uuid "144ce4fd-55d0-4f60-93e3-9ae9413e772b")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -8299,7 +8299,7 @@
 			(uuid "38de3cdd-d43c-4c57-9d59-f2cb873a175f")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
@@ -8535,7 +8535,7 @@
 			(uuid "ab32f739-8763-4191-a2fd-351a3522a587")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/LED 5MM/LED 5mm Red.step"
+		(model "${KIPRJMOD}/packages3D/LED 5mm Red.step"
 			(offset
 				(xyz 1.3 0 0)
 			)
