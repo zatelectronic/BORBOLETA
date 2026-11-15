@@ -5,7 +5,7 @@
 	(uuid "54acc04a-6dd0-50be-b5c9-12e5f80498ea")
 	(paper "A4")
 	(title_block
-		(title "BORBOLETA · shield de LEDs para Arduino UNO")
+		(title "BORBOLETA")
 		(date "2026-11-12")
 		(rev "R01")
 		(company "ZAT ELECTRONIC")
